@@ -42,7 +42,7 @@ Aspiring **Cybersecurity Professional** with a strong interest in **C++ programm
 ---
 
 ## 📫 How to reach me
-- **LinkedIn**: [Nilesh Patil](https://www.linkedin.com/in/nilesh-patil-9827952a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- **LinkedIn**: [Nilesh Patil](https://www.linkedin.com/in/nilesh-patil-9827952a8/)
 - **Email**: [nilesrajput1628@gmail.com](nilesrajput1628@gmail.com)
 - **GitHub**: [@Nilesh1628](https://github.com/nilesh1628)
 
